@@ -1,1 +1,305 @@
-var _0x404016=_0xd599;(function(_0x542808,_0x1d1ad7){var _0x2bfc31=_0xd599,_0x2e5664=_0x542808();while(!![]){try{var _0x71876d=parseInt(_0x2bfc31(0xb4))/0x1*(parseInt(_0x2bfc31(0xb3))/0x2)+-parseInt(_0x2bfc31(0xcc))/0x3*(parseInt(_0x2bfc31(0xc3))/0x4)+-parseInt(_0x2bfc31(0x9f))/0x5*(parseInt(_0x2bfc31(0xac))/0x6)+parseInt(_0x2bfc31(0xab))/0x7+-parseInt(_0x2bfc31(0xbe))/0x8+-parseInt(_0x2bfc31(0xa1))/0x9+-parseInt(_0x2bfc31(0x99))/0xa*(-parseInt(_0x2bfc31(0x9d))/0xb);if(_0x71876d===_0x1d1ad7)break;else _0x2e5664['push'](_0x2e5664['shift']());}catch(_0x431bb0){_0x2e5664['push'](_0x2e5664['shift']());}}}(_0x3b75,0xadf17),$(document)[_0x404016(0x97)](function(){var _0x47a8c3=_0x404016;$(window)[_0x47a8c3(0x98)](function(){var _0xcc53aa=_0x47a8c3;this[_0xcc53aa(0xb8)]>0x14?$(_0xcc53aa(0xbf))[_0xcc53aa(0xc6)]('sticky'):$(_0xcc53aa(0xbf))['removeClass']('sticky'),this[_0xcc53aa(0xb8)]>0x1f4?$(_0xcc53aa(0xba))['addClass'](_0xcc53aa(0xb7)):$('.scroll-up-btn')[_0xcc53aa(0xa4)](_0xcc53aa(0xb7));}),$(_0x47a8c3(0xba))[_0x47a8c3(0xbb)](function(){var _0x24ec32=_0x47a8c3;$('html')[_0x24ec32(0xd2)]({'scrollTop':0x0}),$('html')['css'](_0x24ec32(0xd6),_0x24ec32(0x9b));}),$('.navbar\x20.menu\x20li\x20a')['click'](function(){var _0x5742a8=_0x47a8c3;$(_0x5742a8(0xb9))[_0x5742a8(0x9c)](_0x5742a8(0xd6),_0x5742a8(0xa7));}),$('.menu-btn')['click'](function(){var _0x5b3f50=_0x47a8c3;$(_0x5b3f50(0x96))[_0x5b3f50(0xc7)](_0x5b3f50(0xa8)),$(_0x5b3f50(0xd4))[_0x5b3f50(0xc7)]('active');});var _0x253536=new Typed('.typing',{'strings':[_0x47a8c3(0x94),_0x47a8c3(0xb6),_0x47a8c3(0xad),_0x47a8c3(0xb2),_0x47a8c3(0xaf)],'typeSpeed':0x64,'backSpeed':0x3c,'loop':!![]}),_0x253536=new Typed(_0x47a8c3(0xc0),{'strings':[_0x47a8c3(0x94),_0x47a8c3(0xad),_0x47a8c3(0xb2),_0x47a8c3(0xaf),_0x47a8c3(0xb6)],'typeSpeed':0x64,'backSpeed':0x3c,'loop':!![]});$('.carousel')[_0x47a8c3(0xa6)]({'margin':0x14,'loop':!![],'autoplay':!![],'autoplayTimeOut':0x7d0,'autoplayHoverPause':!![],'responsive':{0x0:{'items':0x1,'nav':![]},0x258:{'items':0x2,'nav':![]},0x3e8:{'items':0x3,'nav':![]}}}),document['getElementById'](_0x47a8c3(0xb0))[_0x47a8c3(0xc4)]=new Date()[_0x47a8c3(0xb1)](),$(document)['on'](_0x47a8c3(0xbb),_0x47a8c3(0x92),function(_0x38e0ee){var _0xc4e6ed=_0x47a8c3;_0x38e0ee[_0xc4e6ed(0xae)](),window[_0xc4e6ed(0x95)][_0xc4e6ed(0xbc)]=_0xc4e6ed(0xc5);});}));function _0xd599(_0x312621,_0x3b59a3){var _0x3b7538=_0x3b75();return _0xd599=function(_0xd599ee,_0x167c6c){_0xd599ee=_0xd599ee-0x92;var _0x4ff0b7=_0x3b7538[_0xd599ee];return _0x4ff0b7;},_0xd599(_0x312621,_0x3b59a3);}function _0x3b75(){var _0x56d5a1=['css','121880fHXfyD','From\x20Portfolio\x20Site','5HqTZMg','top-end','4143249GKqgel','#sender-subject','#email-form','removeClass','disabled','owlCarousel','smooth','active','metusab@gmail.com','val','1497293aBsOpz','3468750SvWUvB','Blogger','preventDefault','Freelancer','year','getFullYear','Designer','2fjMvmj','1327693ESGfVN','name:\x20','YouTuber','show','scrollY','html','.scroll-up-btn','click','href','fire','8949968woQbaf','.navbar','.typing-2','<br>subject:\x20','hide','12JYlEjM','innerHTML','file/sabin_cv.docx','addClass','toggleClass','pedrohazard10','#submit','<br>email:\x20','portfolio.response@gmail.com','1386489bkdJtg','#button-spinner','Oops...','then','#sender-body','<br>body:\x20','animate','success','.menu-btn\x20i','reset','scrollBehavior','<a\x20href=\x22\x22>Why\x20do\x20I\x20have\x20this\x20issue?</a>','#download-cv','send','Software\x20Developer','location','.navbar\x20.menu','ready','scroll','2450KfmhNj','error','auto'];_0x3b75=function(){return _0x56d5a1;};return _0x3b75();}function sendEmail(){var _0x51468f=_0x404016;$(_0x51468f(0xc9))['attr'](_0x51468f(0xa5),!![]),$(_0x51468f(0xcd))['show']();var _0x506583=$('#sender-name')[_0x51468f(0xaa)](),_0x20196e=$('#sender-email')[_0x51468f(0xaa)](),_0x512926=$(_0x51468f(0xa2))['val'](),_0x22cce9=$(_0x51468f(0xd0))[_0x51468f(0xaa)](),_0x176b28=_0x51468f(0xb5)+_0x506583+_0x51468f(0xca)+_0x20196e+_0x51468f(0xc1)+_0x512926+_0x51468f(0xd1)+_0x22cce9;Email[_0x51468f(0x93)]({'Host':'smtp.gmail.com','Username':_0x51468f(0xcb),'Password':_0x51468f(0xc8),'To':_0x51468f(0xa9),'From':_0x51468f(0xcb),'Subject':_0x51468f(0x9e),'Body':_0x176b28})[_0x51468f(0xcf)](_0x2c5242=>{var _0x1b9f0e=_0x51468f;_0x2c5242=='OK'?($('#button-spinner')[_0x1b9f0e(0xc2)](),Swal[_0x1b9f0e(0xbd)]({'position':_0x1b9f0e(0xa0),'icon':_0x1b9f0e(0xd3),'title':'Email\x20Sent.\x20Thank\x20you\x20for\x20connecting.','showConfirmButton':![],'timer':0x5dc}),$(_0x1b9f0e(0xa3))[0x0][_0x1b9f0e(0xd5)]()):(console[_0x1b9f0e(0x9a)](_0x2c5242),$(_0x1b9f0e(0xcd))[_0x1b9f0e(0xc2)](),Swal['fire']({'icon':_0x1b9f0e(0x9a),'title':_0x1b9f0e(0xce),'text':'Something\x20went\x20wrong!','footer':_0x1b9f0e(0xd7)}));});}
+/* ─────────────────────────────────────────────────────────────
+   NAVBAR — shrink + glassmorphism on scroll
+   ───────────────────────────────────────────────────────────── */
+const navbar = document.getElementById('navbar');
+
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 50) {
+    navbar.classList.add('scrolled');
+  } else {
+    navbar.classList.remove('scrolled');
+  }
+});
+
+/* ─────────────────────────────────────────────────────────────
+   MOBILE MENU
+   ───────────────────────────────────────────────────────────── */
+const hamburger = document.getElementById('hamburger');
+const mobileMenu = document.getElementById('mobileMenu');
+
+// Create overlay element
+const overlay = document.createElement('div');
+overlay.classList.add('overlay');
+document.body.appendChild(overlay);
+
+function openMenu() {
+  hamburger.classList.add('open');
+  mobileMenu.classList.add('open');
+  overlay.classList.add('visible');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeMenu() {
+  hamburger.classList.remove('open');
+  mobileMenu.classList.remove('open');
+  overlay.classList.remove('visible');
+  document.body.style.overflow = '';
+}
+
+hamburger.addEventListener('click', () => {
+  if (mobileMenu.classList.contains('open')) {
+    closeMenu();
+  } else {
+    openMenu();
+  }
+});
+
+overlay.addEventListener('click', closeMenu);
+
+document.querySelectorAll('.mobile-link').forEach(link => {
+  link.addEventListener('click', closeMenu);
+});
+
+/* ─────────────────────────────────────────────────────────────
+   SMOOTH SCROLL for nav links
+   ───────────────────────────────────────────────────────────── */
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      e.preventDefault();
+      const navHeight = navbar.offsetHeight;
+      const top = target.getBoundingClientRect().top + window.scrollY - navHeight - 20;
+      window.scrollTo({ top, behavior: 'smooth' });
+    }
+  });
+});
+
+/* ─────────────────────────────────────────────────────────────
+   ACTIVE NAV LINK on scroll
+   ───────────────────────────────────────────────────────────── */
+const sections = document.querySelectorAll('section[id]');
+const navLinks = document.querySelectorAll('.nav-links a');
+
+const activateLink = () => {
+  let current = '';
+  sections.forEach(section => {
+    const sectionTop = section.offsetTop - 120;
+    if (window.scrollY >= sectionTop) {
+      current = section.getAttribute('id');
+    }
+  });
+
+  navLinks.forEach(link => {
+    link.style.color = '';
+    if (link.getAttribute('href') === `#${current}`) {
+      link.style.color = 'var(--accent)';
+    }
+  });
+};
+
+window.addEventListener('scroll', activateLink);
+
+/* ─────────────────────────────────────────────────────────────
+   SCROLL REVEAL — Intersection Observer
+   ───────────────────────────────────────────────────────────── */
+const revealObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, {
+  threshold: 0.1,
+  rootMargin: '0px 0px -60px 0px'
+});
+
+document.querySelectorAll('.reveal-up, .reveal-left, .reveal-right, .reveal-fade').forEach(el => {
+  revealObserver.observe(el);
+});
+
+/* ─────────────────────────────────────────────────────────────
+   EXPERIENCE TABS
+   ───────────────────────────────────────────────────────────── */
+const tabBtns = document.querySelectorAll('.tab-btn');
+const tabPanels = document.querySelectorAll('.tab-panel');
+
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.tab;
+
+    tabBtns.forEach(b => b.classList.remove('active'));
+    tabPanels.forEach(p => p.classList.remove('active'));
+
+    btn.classList.add('active');
+    const panel = document.getElementById(`tab-${target}`);
+    if (panel) {
+      panel.classList.add('active');
+      // Fade in
+      panel.style.opacity = '0';
+      panel.style.transform = 'translateY(10px)';
+      requestAnimationFrame(() => {
+        panel.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+        panel.style.opacity = '1';
+        panel.style.transform = 'translateY(0)';
+      });
+    }
+  });
+});
+
+/* ─────────────────────────────────────────────────────────────
+   HERO — trigger reveals immediately on load
+   ───────────────────────────────────────────────────────────── */
+window.addEventListener('load', () => {
+  document.querySelectorAll('#hero .reveal-up, #hero .reveal-fade').forEach(el => {
+    setTimeout(() => el.classList.add('visible'), 100);
+  });
+});
+
+/* ─────────────────────────────────────────────────────────────
+   CURSOR GLOW (subtle mouse follower)
+   ───────────────────────────────────────────────────────────── */
+const glow = document.createElement('div');
+glow.style.cssText = `
+  position: fixed;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(100,255,218,0.04) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  transition: left 0.8s ease, top 0.8s ease;
+`;
+document.body.appendChild(glow);
+
+window.addEventListener('mousemove', e => {
+  glow.style.left = e.clientX + 'px';
+  glow.style.top = e.clientY + 'px';
+});
+
+/* ─────────────────────────────────────────────────────────────
+   CONTACT FORM — Web3Forms submission
+   ───────────────────────────────────────────────────────────── */
+const contactForm = document.getElementById('contactForm');
+
+if (contactForm) {
+  contactForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const successEl = document.getElementById('formSuccess');
+    const errorEl   = document.getElementById('formError');
+    const submitBtn = document.getElementById('submitBtn');
+
+    // Hide any previous alerts
+    successEl.classList.remove('visible');
+    errorEl.classList.remove('visible');
+
+    // Client-side validation
+    const fields = contactForm.querySelectorAll('input[required], textarea[required]');
+    let valid = true;
+
+    fields.forEach(field => {
+      const group = field.closest('.form-group');
+      group.classList.remove('invalid');
+
+      const isEmpty = !field.value.trim();
+      const isInvalidEmail = field.type === 'email' && field.value && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(field.value);
+
+      if (isEmpty || isInvalidEmail) {
+        group.classList.add('invalid');
+        valid = false;
+      }
+    });
+
+    if (!valid) return;
+
+    // Loading state
+    submitBtn.classList.add('loading');
+    submitBtn.disabled = true;
+
+    // Build payload
+    const data = {
+      access_key:  contactForm.querySelector('[name="access_key"]').value,
+      subject:     contactForm.querySelector('[name="subject"]').value,
+      name:        contactForm.querySelector('[name="name"]').value.trim(),
+      email:       contactForm.querySelector('[name="email"]').value.trim(),
+      subject_line: contactForm.querySelector('[name="subject_line"]').value.trim(),
+      message:     contactForm.querySelector('[name="message"]').value.trim(),
+      botcheck:    contactForm.querySelector('[name="botcheck"]').checked,
+    };
+
+    try {
+      const res = await fetch('https://api.web3forms.com/submit', {
+        method:  'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body:    JSON.stringify(data),
+      });
+
+      const json = await res.json();
+
+      if (res.ok && json.success) {
+        successEl.classList.add('visible');
+        contactForm.reset();
+        // Clear validation states
+        contactForm.querySelectorAll('.form-group').forEach(g => g.classList.remove('invalid'));
+      } else {
+        throw new Error(json.message || 'Submission failed');
+      }
+    } catch {
+      errorEl.classList.add('visible');
+    } finally {
+      submitBtn.classList.remove('loading');
+      submitBtn.disabled = false;
+    }
+  });
+
+  // Remove invalid state on input
+  contactForm.querySelectorAll('input, textarea').forEach(field => {
+    field.addEventListener('input', () => {
+      field.closest('.form-group')?.classList.remove('invalid');
+    });
+  });
+}
+
+/* ─────────────────────────────────────────────────────────────
+   TYPING ANIMATION for hero tagline
+   ───────────────────────────────────────────────────────────── */
+const tagline = document.querySelector('.hero-tagline');
+if (tagline) {
+  const phrases = [
+    'I turn data into decisions.',
+    'I build BI dashboards.',
+    'I design SQL databases.',
+    'I deliver actionable insights.',
+  ];
+  let phraseIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  let isPaused = false;
+
+  function type() {
+    const current = phrases[phraseIndex];
+
+    if (isDeleting) {
+      tagline.textContent = current.substring(0, charIndex - 1);
+      charIndex--;
+    } else {
+      tagline.textContent = current.substring(0, charIndex + 1);
+      charIndex++;
+    }
+
+    let speed = isDeleting ? 40 : 80;
+
+    if (!isDeleting && charIndex === current.length) {
+      isPaused = true;
+      setTimeout(() => {
+        isPaused = false;
+        isDeleting = true;
+        type();
+      }, 2200);
+      return;
+    }
+
+    if (isDeleting && charIndex === 0) {
+      isDeleting = false;
+      phraseIndex = (phraseIndex + 1) % phrases.length;
+      speed = 300;
+    }
+
+    if (!isPaused) setTimeout(type, speed);
+  }
+
+  // Start typing after hero reveals
+  setTimeout(type, 900);
+}
